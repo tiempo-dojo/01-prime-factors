@@ -1,5 +1,3 @@
-# Prime Factors Kata
-
 The prime factors kata is a math-based kata in which we write a method which will break down any number into a list of its prime factors. This means that we return the set of one or more prime numbers that when multiplied together will give us the initial number.
 
 ## Requirements
