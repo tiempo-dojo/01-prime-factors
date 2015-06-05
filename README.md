@@ -13,3 +13,17 @@ Write a class named "PrimeFactors" that has one static method: generate.
 * generate(9) = [3,3]
 * generate(10)=[2,5]
 * generate(12) = [2,2,3]
+
+## Retrospective
+
+### Good
+* Discuss algorithm
+* Brainstorming
+* Introduction to dojo
+* Pair programing
+* Support
+
+### Bad
+* Noise
+* Disinformation
+* Poor implementation
